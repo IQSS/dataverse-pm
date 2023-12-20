@@ -16,6 +16,8 @@ assignees: ''
 ## Participants
 - Lead:
 - 
+## Resources
+-
 
 ## Timeline
 - Start: 
