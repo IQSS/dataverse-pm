@@ -31,6 +31,6 @@ Issue for regular monitoring of a system, a resource, or other repeating task
 ## Related
 [Dataverse Project Management Dashboards](https://github.com/orgs/IQSS/projects/32) (Private). Dashboards used for tracking, managing, and monitoring tracking issues in [dataverse-pm repo](https://github.com/IQSS/dataverse-pm)
 
-[IQSS Dataverse Project](https://github.com/orgs/IQSS/projects/34) (Public). Main Dataverse repo.
+[IQSS Dataverse Project](https://github.com/orgs/IQSS/projects/34) (Public). Main Dataverse dashboards, including the [sprint board](https://github.com/orgs/IQSS/projects/34).
 
 ---
