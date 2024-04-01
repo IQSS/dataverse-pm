@@ -29,11 +29,11 @@ Development and delivery of a specific report (e.g., project status)
 Issue for regular monitoring of a system, a resource, or other repeating task 
 
 ## Related
-[Dataverse Project Management Dashboards](https://github.com/orgs/IQSS/projects/32) (Private). Dashboards used for tracking, managing, and monitoring tracking issues in [dataverse-pm repo](https://github.com/IQSS/dataverse-pm)
+[Dataverse Project Management Dashboards](https://github.com/orgs/IQSS/projects/32) (IQSS Only). Dashboards used for tracking, managing, and monitoring tracking issues in [dataverse-pm repo](https://github.com/IQSS/dataverse-pm)
 
 [IQSS Dataverse Project](https://github.com/orgs/IQSS/projects/34) (Public). Main Dataverse dashboards, including the [sprint board](https://github.com/orgs/IQSS/projects/34).
 
-[sabo](https://github.com/IQSS/sabo) (Private). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.
+[sabo](https://github.com/IQSS/sabo) (IQSS Only). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.
 
 
 
