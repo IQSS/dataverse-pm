@@ -8,7 +8,7 @@ or [dataverse-frontend](https://github.com/IQSS/dataverse-frontend) with deliver
 Tracking issues:
 - Provide predictable, accessible locations to record and retrieve status on any activity requiring tracking.
 - Contain links to documentation, communications channels (e.g., Slack, Zulip), and other related resources.
-- Occasionally appear on the Sprint Board when 
+- Occasionally appear on the Sprint Board when needed to account for on-going work not related to development (e.g., DevOps work). 
 
 Dataverse Project team members should create a tracking issue in this repository whenever they need tasks tracked, managed, and reported on across multiple sprints.
 
