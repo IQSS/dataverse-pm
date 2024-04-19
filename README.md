@@ -2,7 +2,7 @@
 This is the main repository for Dataverse-related project management tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
 
 ## About Tracking Issues
-Tracking issues are GitHub issues in the [dataverse-pm repo](https://github.com/IQSS/dataverse-pm) connecting connect development issues (e.g., in [dataverse](https://github.com/IQSS/dataverse) 
+Tracking issues are GitHub issues in the [dataverse-pm repo](https://github.com/IQSS/dataverse-pm) connecting development issues (e.g., in [dataverse](https://github.com/IQSS/dataverse) 
 or [dataverse-frontend](https://github.com/IQSS/dataverse-frontend) with deliverables, strategic objectives, and resource monitoring and reporting requirements.
 
 Tracking issues:
