@@ -9,7 +9,7 @@ Search
 end
 
 subgraph Dataverse
-Collection1 --> Dataset1
+Collection1 <-- Dataset1
 Collection1 -- not Croissant --> Search
 Review2 --> DCDataset1
 Review2 -- ? --> DatasetSearch
